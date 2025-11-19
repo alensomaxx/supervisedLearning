@@ -88,10 +88,9 @@
 - **Specificity:** The ratio of correctly predicted negative observations to all observations in the actual negative class.
 - **F1-Score:** The weighted average of Precision and Recall.
 
->Types of Supervised Machine Learning
+---
 
-
-# Define the following:
+### Define the following:
 
 - SUPERVISED MACHINE LEARNING 
 - REGRESSION ALGORITHMS
@@ -103,11 +102,11 @@
 - SUPPORT VECTOR MACHINE ALGORITHM
 - KNN (default value of K = 3)
 
+---
 
->WHAT WE NEED 
-- >DEFINITON + Example + practical Implementation (6 steps)
+### WHAT WE NEED 
+> Definition + Example + Practical Implementation (6 steps)
 
-> Multiple algotihm has to be tested and performace has to be compared before shortlisting 
-> the best performing algorithm
+> **"Multiple algotihm has to be tested and performace has to be compared before shortlisting the best performing algorithm"**
 
 
