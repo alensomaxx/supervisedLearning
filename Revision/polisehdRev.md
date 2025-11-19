@@ -91,7 +91,7 @@
 
 ### Types of Supervised Machine Learning
 
-Definitions of the following :
+
 Define the following:
 
 SUPERVISED MACHINE LEARNING 
@@ -117,9 +117,3 @@ Multiple algotihm has to be tested and performace has to be compared before shor
 the best performing algorithm
 
 
-5 POCS
-> NAIVE BAYES ALGORITHM 
-> DECISION TREES ALGORITHM
-> SUPPORT VECTOR MACHINE ALGORITHM
-> LOGISTIC REGRESSION 
-> KNN
