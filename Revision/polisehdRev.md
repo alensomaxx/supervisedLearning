@@ -88,32 +88,26 @@
 - **Specificity:** The ratio of correctly predicted negative observations to all observations in the actual negative class.
 - **F1-Score:** The weighted average of Precision and Recall.
 
-
-### Types of Supervised Machine Learning
-
-
-Define the following:
-
-SUPERVISED MACHINE LEARNING 
-REGRESSION ALGORITHMS
-LINEAR REGRESSION ALGORITHM
-CLASSIFICATION ALGOROTHMS
-LOGISTIC REGRESSION
-NAIVE BAYES ALGORITHM 
-DECISION TREES ALGORITHM
-SUPPORT VECTOR MACHINE ALGORITHM
-KNN (default value of K = 3)
+>Types of Supervised Machine Learning
 
 
-WHAT WE NEED 
-DEFINITON + Example + practical Implementation (6 steps)
+# Define the following:
 
-WHAT NOT NEED TO BE DONE 
-OPTIMIZATION
-VERY DEEP THEORTIC DETAILS
-GOAL: is Proof of concept (POC) by NOV 19th
-THE FIRST ALGORITHM cannot be claimed as the best algorithm 
-Multiple algotihm has to be tested and performace has to be compared before shortlisting 
-the best performing algorithm
+- SUPERVISED MACHINE LEARNING 
+- REGRESSION ALGORITHMS
+- LINEAR REGRESSION ALGORITHM
+- CLASSIFICATION ALGOROTHMS
+- LOGISTIC REGRESSION
+- NAIVE BAYES ALGORITHM 
+- DECISION TREES ALGORITHM
+- SUPPORT VECTOR MACHINE ALGORITHM
+- KNN (default value of K = 3)
+
+
+>WHAT WE NEED 
+- >DEFINITON + Example + practical Implementation (6 steps)
+
+> Multiple algotihm has to be tested and performace has to be compared before shortlisting 
+> the best performing algorithm
 
 
