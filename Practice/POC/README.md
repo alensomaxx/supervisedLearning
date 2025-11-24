@@ -12,11 +12,11 @@ All POCs are located in the [`Practice/POC/`](Practice/POC/) directory. Each alg
 
 | Algorithm                  | Notebook                          | Status                  | Focus                                      |
 |----------------------------|-----------------------------------|-------------------------|--------------------------------------------|
-| Naive Bayes                | [`NaiveBayesAlgo.ipynb`](Practice/POC/NaiveBayesAlgo.ipynb)           | ✅ POC Complete        | Implementation + Initial Evaluation         |
-| Decision Trees             | [`DecisionTreesAlgo.ipynb`](Practice/POC/DecisionTreesAlgo.ipynb)       | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
-| Support Vector Machines    | [`SVMAlgo.ipynb`](Practice/POC/SVMAlgo.ipynb)                   | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
-| Logistic Regression        | [`LogisticRegressionAlgo.ipynb`](Practice/POC/LogisticRegressionAlgo.ipynb) | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
-| K-Nearest Neighbors (KNN)  | [`KNNAlgo.ipynb`](Practice/POC/KNNAlgo.ipynb)                 | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| Naive Bayes                | [`NaiveBayesAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/NaiveBayesAlgo.ipynb)           | ✅ POC Complete        | Implementation + Initial Evaluation         |
+| Decision Trees             | [`DecisionTreesAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/DecisionTressAlgo.ipynb)       | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| Support Vector Machines    | [`SVMAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/SVMAlgo.ipynb)                   | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| Logistic Regression        | [`LogisticRegressionAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/LogisticRegressionAlgo.ipynb) | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| K-Nearest Neighbors (KNN)  | [`KNNAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/KNNAlgo.ipynb)                 | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 
 > All models are trained and evaluated on the **Wisconsin Breast Cancer Dataset** (`Breast_cancer_dataset.csv`) — a classic binary classification benchmark.
 
